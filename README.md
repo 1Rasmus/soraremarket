@@ -5,4 +5,4 @@ Observe Sorare Card market
 - msg if card is is lower than custom price (buyplayers.xlsx)
 
 
-t
+te
